@@ -14,8 +14,7 @@ let link = "Filtered.geojson";
 
 // Getting the GeoJSON data and adding it to the map
 d3.json(link).then(function(data) {
+  // Creating a GeoJSON layer with the retrieved data
   geojsonLayer = L.geoJson(data, {
-      style: style,
-      onEachFeature: onEachFeature
   }).addTo(myMap);
 });
