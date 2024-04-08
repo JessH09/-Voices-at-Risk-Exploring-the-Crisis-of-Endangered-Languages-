@@ -12,6 +12,10 @@ https://www.kaggle.com/datasets/the-guardian/extinct-languages
 
 This project focuses on telling a story using data visualizations. Our group chose to explore `Endangered Languages`. We aimed to uncover insights and trends within the data and present them through interactive visualizations. Our project includes a variety of visualizations created using Python libraries such as Matplotlib, Pandas plotting, and Plotly. The data is stored in a PostgreSQL database and extracted using SQLAlchemy. 
 
+### *Summarizing the efforts for ethical considerations made in the project*
+
+In a project focused on endangered languages, ethical considerations are paramount. This involves adhering to community guidelines, obtaining consent for data collection, and minimizing harm to language communities. It's crucial to handle and share data sensitively, respecting the rights and dignity of language speakers. Prioritizing ethics ensures integrity, trust, and positive contributions to language preservation efforts.
+
 ## Installation and Usage
 
 - Clone this repository to your local machine.
@@ -40,25 +44,25 @@ This project focuses on telling a story using data visualizations. Our group cho
        - Filtered Data Visualization: Enable users to select and filter the data interactively, guiding them through the process step by step. Provide intuitive controls and feedback to enhance the user experience.
 
 ## Rough Breakdown of Tasks:
-1. Visualization sketches of the graphs and maps in excel
-  - Data Cleaning: 
-    - Making language concise
-    - Only keeping columns:
-        - Name in English
-        - Countries
-        - Country code iso639-6
-        - Degree of Endangerment
-        - Alternate name
-        - Number of speakers
-        - Lat and lon
+### Visualization sketches of the graphs and maps in excel
+  - [x] `Data Cleaning:` 
+    - [x] Making language concise
+    - [x] Only keeping columns:
+        -  [x] Name in English
+        - [x] Countries
+        - [x] Country code iso639-6
+        - [x] Degree of Endangerment
+        - [x] Alternate name
+        - [x] Number of speakers
+        - [x] Lat and lon
           
-2. Put Data into database SQL
+  - [x] Put Data into database SQL
 
-3. Start analyzing/visualizations
-      - Map visualization: done in leaflet (add color, labels, hover feature)
-      - Bar chart of endangerment breakdown; make in pandas using for loop (include color, labels, etc)
-      - Chart showing number of speakers left per language
-      - Flask app to bring it all together since it’s a mix of pandas and js
+  - [x] Start analyzing/visualizations
+      - [x] Map visualization: done in leaflet (add color, labels, hover feature)
+      - [x] Bar chart of endangerment breakdown; make in pandas using for loop (include color, labels, etc)
+      - [x] Chart showing number of speakers left per language
+      - [x] Flask app to bring it all together since it’s a mix of pandas and js
 
    
 ## Visualizations of Endangered Languages
