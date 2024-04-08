@@ -5,7 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
-    {{ image_path }}
+<body>    
+<div>
+    <style>
+        .large-text {
+            font-size: 45px;
+            color:brown; /* Adjust the font size as needed */
+        }
+    </style>
+    <img src="{{image_path}}" alt="Number of Languages">
+    <p class="large-text">{{ text }}</p>
+    <a href="{{ url_for('index') }}" style="font-size: 40px;">Click here to go back to the home page</a>
+
+</div>
+      
 </body>
 </html>
