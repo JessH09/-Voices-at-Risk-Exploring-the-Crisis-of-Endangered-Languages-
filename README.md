@@ -3,6 +3,8 @@
 # *Voices at Risk Exploring the Crisis of Endangered Languages*
 ---
 
+# Topic
+https://www.kaggle.com/datasets/the-guardian/extinct-languages
 
 ## Project Overview: Data Visualization Track
 
@@ -36,6 +38,31 @@ This project focuses on telling a story using data visualizations. Our group cho
        - HTML/JavaScript: Implement menus, dropdowns, or textboxes on the webpage to allow users to interact with the visualizations dynamically. Use JavaScript to update the visualizations based on user inputs.
        - Flask API: Develop interactive API routes using Flask to serve back Python or JavaScript-created plots. Enable users to request specific data subsets or customize the visualizations according to their preferences.
        - Filtered Data Visualization: Enable users to select and filter the data interactively, guiding them through the process step by step. Provide intuitive controls and feedback to enhance the user experience.
+
+## Rough Breakdown of Tasks:
+1. Visualization sketches of the graphs and maps in excel
+  - Data Cleaning: 
+    - Making language concise
+    - Only keeping columns:
+        - Name in English
+        - Countries
+        - Country code iso639-6
+        - Degree of Endangerment
+        - Alternate name
+        - Number of speakers
+        - Lat and lon
+          
+2. Put Data into database SQL
+
+3. Start analyzing/visualizations
+      - Map visualization: done in leaflet (add color, labels, hover feature)
+      - Bar chart of endangerment breakdown; make in pandas using for loop (include color, labels, etc)
+      - Chart showing number of speakers left per language
+      - Flask app to bring it all together since it’s a mix of pandas and js
+
+   
+## Visualizations of Endangered Languages
+
    
 ## Finding Data
 
