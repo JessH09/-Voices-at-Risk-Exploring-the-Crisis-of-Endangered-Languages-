@@ -6,6 +6,10 @@
 # Topic
 https://www.kaggle.com/datasets/the-guardian/extinct-languages
 
+## Acknowledgments on the topic
+Data was originally organized and published by The Guardian and can be accessed via this Datablog post.
+
+
 ## Project Overview: Data Visualization Track
 
 ### *Project Description*
@@ -67,6 +71,8 @@ In a project focused on endangered languages, ethical considerations are paramou
    
 ## Visualizations of Endangered Languages
 
+
+
    
 ## Finding Data
 
@@ -81,6 +87,9 @@ In a project focused on endangered languages, ethical considerations are paramou
 [Public-APIsLinks to an external site.](https://github.com/Kikobeats/awesome-api)
 
 [Awesome APILinks to an external site.](https://benjo-li.medium.com/a-curated-collection-of-over-150-apis-to-build-great-products-fdcfa0f361bc)
+
+## Resources
+[ https://bootstrap-flask.readthedocs.io/en/stable/](https://bootstrap-flask.readthedocs.io/en/stable/)
 
 ################# STILL WORKING ON THIS##########################
 
