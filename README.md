@@ -69,7 +69,7 @@ In a project focused on endangered languages, ethical considerations are paramou
       - [x] Flask app to bring it all together since it’s a mix of pandas and js
 
    
-## Visualizations of Endangered Languages
+## Idea for Visual
 
 ![MapImage](https://github.com/JessH09/Voices-at-Risk-Exploring-the-Crisis-of-Endangered-Languages-/assets/152751613/07f20bb2-a541-4124-a8d9-c2569a8feed9)
 
