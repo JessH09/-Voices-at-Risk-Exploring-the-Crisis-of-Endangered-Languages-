@@ -91,6 +91,8 @@ In a project focused on endangered languages, ethical considerations are paramou
 ## Resources
 [ https://bootstrap-flask.readthedocs.io/en/stable/](https://bootstrap-flask.readthedocs.io/en/stable/)
 
+[https://www.postgresql.org/docs/current/sql.html](https://www.postgresql.org/docs/current/sql.html)
+
 ################# STILL WORKING ON THIS##########################
 
 ### Versions Used
