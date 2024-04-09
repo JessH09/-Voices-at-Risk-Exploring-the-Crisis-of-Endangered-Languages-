@@ -93,6 +93,8 @@ In a project focused on endangered languages, ethical considerations are paramou
 
 [https://www.postgresql.org/docs/current/sql.html](https://www.postgresql.org/docs/current/sql.html)
 
+https://flask.palletsprojects.com/en/3.0.x/
+
 ################# STILL WORKING ON THIS##########################
 
 ### Versions Used
