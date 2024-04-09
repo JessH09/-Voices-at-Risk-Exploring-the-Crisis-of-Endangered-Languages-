@@ -70,10 +70,7 @@ In a project focused on endangered languages, ethical considerations are paramou
 
    
 ## Visualizations of Endangered Languages
-![Output]([image_url](https://github.com/JessH09/Voices-at-Risk-Exploring-the-Crisis-of-Endangered-Languages-/blob/main/pie_chart_update.png))
 
-![Output]([image_url](https://github.com/JessH09/Voices-at-Risk-Exploring-the-Crisis-of-Endangered-Languages-/blob/main/bar.png))
-   
 ## Finding Data
 
 [data.worldLinks to an external site.](https://data.world/)
@@ -96,10 +93,6 @@ In a project focused on endangered languages, ethical considerations are paramou
 https://matplotlib.org/stable/index.html
 
 https://flask.palletsprojects.com/en/3.0.x/
-
-### Versions Used
-- Python: 3.9.7
-- Pandas: 1.3.3
 
 ---
 
