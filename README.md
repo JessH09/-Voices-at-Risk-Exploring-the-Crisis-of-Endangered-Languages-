@@ -70,9 +70,9 @@ In a project focused on endangered languages, ethical considerations are paramou
 
    
 ## Visualizations of Endangered Languages
-![Alt Text](image_url)
+![Output]([image_url](https://github.com/JessH09/Voices-at-Risk-Exploring-the-Crisis-of-Endangered-Languages-/blob/main/pie_chart_update.png))
 
-![Bar Graph of Endangere]([image_url](https://github.com/JessH09/Voices-at-Risk-Exploring-the-Crisis-of-Endangered-Languages-/blob/main/bar.png))
+![Output]([image_url](https://github.com/JessH09/Voices-at-Risk-Exploring-the-Crisis-of-Endangered-Languages-/blob/main/bar.png))
    
 ## Finding Data
 
